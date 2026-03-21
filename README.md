@@ -47,7 +47,7 @@ learning: Python and AI integration
 
 [![Safeko](https://img.shields.io/badge/_SAFEKO-70A5FD?style=for-the-badge)](https://safeko.vercel.app/)
 
-[![Gesture Controlled Browser Extension](https://img.shields.io/badge/_GestureExtension-70A5FD?style=for-the-badge)](https://github.com/MikolajPietron/GestureExstension)
+[![Gesture Controlled Browser Extension](https://img.shields.io/badge/_GestureExtension-70A5FD?style=for-the-badge)](https://github.com/MikolajPietron/GestureExtension)
 
 [![Gesture Controlled PC App](https://img.shields.io/badge/_GESTURE_CONTROLLED_PC_APP-70A5FD?style=for-the-badge)](https://drive.google.com/file/d/1jBy3F4umsJkL9GEO2BOkL-aDD0WH4n8M/view?usp=sharing)
 
