@@ -89,13 +89,9 @@ fun_fact: I built a Pong game with React 🏓
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
 
-[![Mikołaj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MikolajPietron&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FF6B6B)](https://github.com/MikolajPietron)
 
-</div>
 
 ---
 
