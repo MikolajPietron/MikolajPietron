@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Miko%C5%82aj+Pietro%C5%84;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+profile+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <!-- Profile Views Counter -->
 <br/>
@@ -19,15 +19,15 @@ name: Mikołaj Pietroń
 role: Full Stack Developer
 location: Poland 🇵🇱
 currently_working_on: Building cool web & mobile apps
-learning: Python and Ai integration
-
+learning: Always exploring new technologies
+fun_fact: I built a Pong game with React 🏓
 ```
 
 - 🔭 I'm currently working on **full-stack web & mobile applications**
 - 🌱 I'm always learning and exploring **new frameworks and tools**
-- 💬 Ask me about **React, Next.js, React Native.
+- 💬 Ask me about **React, Next.js, React Native, Python**
 - 📫 How to reach me: **pietron.mikolaj@gmail.com**
-
+- ⚡ Fun fact: **I love turning ideas into pixel-perfect, high-performance apps**
 
 ---
 
@@ -72,19 +72,69 @@ learning: Python and Ai integration
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MikolajPietron&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MikolajPietron&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" alt="GitHub Streak" />
 
+</div>
 
+<div align="center">
 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikolajPietron&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
+</div>
 
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Mikołaj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MikolajPietron&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FF6B6B)](https://github.com/MikolajPietron)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **My Pong Game** | Classic Pong game built with React | React, Vite, MongoDB | [Live Demo](https://your-pong-game-url.vercel.app) | [Repo](https://github.com/MikolajPietron/my-pong-game) |
+| **Project Name** | Short description of the project | Tech used | [Live Demo](https://your-url.com) | [Repo](https://github.com/MikolajPietron/repo-name) |
+| **Project Name** | Short description of the project | Tech used | [Live Demo](https://your-url.com) | [Repo](https://github.com/MikolajPietron/repo-name) |
+
+</div>
+
+<!-- 
+  HOW TO ADD MORE PROJECTS:
+  Copy one of the rows above and replace:
+  - **Project Name** with your project name
+  - "Short description" with what it does
+  - "Tech used" with the stack
+  - The URLs with your actual links
+-->
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MikolajPietron&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/MikolajPietron)
+
+</div>
 
 ---
 
 <div align="center">
 
-
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 <br/>
 
