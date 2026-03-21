@@ -46,12 +46,12 @@ learning: Python and AI integration
 <div align="center">
 
 <!-- PROJECT 1 -->
-<a href="https://your-pong-game-url.vercel.app">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolajPietron&repo=my-pong-game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=FF6B6B&text_color=FFFFFF" alt="My Pong Game" />
+<a href="https://lexara.cloud">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolajPietron&repo=my-pong-game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=FF6B6B&text_color=FFFFFF" alt="Lexara" />
 </a>
 <!-- PROJECT 2 — Replace repo name below -->
-<a href="https://github.com/MikolajPietron/your-repo-name">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolajPietron&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=FF6B6B&text_color=FFFFFF" alt="Project 2" />
+<a href="https://gesture-game-omega.vercel.app/">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolajPietron&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=FF6B6B&text_color=FFFFFF" alt="GestureGame" />
 </a>
 
 </div>
@@ -61,11 +61,11 @@ learning: Python and AI integration
 <div align="center">
 
 <!-- PROJECT 3 — Replace repo name below -->
-<a href="https://github.com/MikolajPietron/your-repo-name">
+<a href="https://rapy.gg">
 <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolajPietron&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=FF6B6B&text_color=FFFFFF" alt="Project 3" />
 </a>
 <!-- PROJECT 4 — Replace repo name below -->
-<a href="https://github.com/MikolajPietron/your-repo-name">
+<a href="https://safeko.vercel.app/">
 <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolajPietron&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=FF6B6B&text_color=FFFFFF" alt="Project 4" />
 </a>
 
@@ -73,9 +73,8 @@ learning: Python and AI integration
 
 <div align="center">
 
-<br/>
+<br/>s
 
-[![View All Projects](https://img.shields.io/badge/View_All_Projects-70A5FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikolajPietron?tab=repositories)
 
 </div>
 
