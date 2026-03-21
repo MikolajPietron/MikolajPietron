@@ -39,96 +39,92 @@ learning: Python and AI integration
 
 <i>Here's what I've been building — check them out!</i>
 
+<br/><br/>
+
+<a href="https://lexara.cloud">
+<img src="https://img.shields.io/badge/🌐_LEXARA-0D1117?style=for-the-badge&logoColor=white" alt="Lexara" height="35"/>
+</a>
 <br/>
-
-<!-- PROJECT 1 — Lexara -->
-### 🌐 [Lexara](https://lexara.cloud)
-> AI-powered platform <!-- Replace with your own description -->
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://lexara.cloud)
-
----
-
-<!-- PROJECT 2 — Gesture Game -->
-### 🎮 [Gesture Game](https://gesture-game-omega.vercel.app/)
-> Interactive gesture-based game <!-- Replace with your own description -->
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://gesture-game-omega.vercel.app/)
-
----
-
-<!-- PROJECT 3 — Rapy -->
-### 🎵 [Rapy](https://rapy.gg)
-> Music / gaming platform <!-- Replace with your own description -->
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://rapy.gg)
-
----
-
-<!-- PROJECT 4 — Safeko -->
-### 🔒 [Safeko](https://safeko.vercel.app/)
-> Security / safety app <!-- Replace with your own description -->
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://safeko.vercel.app/)
-
----
-
-<!-- PROJECT 5 — TEMPLATE (copy & fill in) -->
-### 🚀 [Project Name](https://your-project-url.com)
-> Short description of your project
-
-![Tech](https://img.shields.io/badge/Tech-333?style=flat-square&logo=react&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://your-project-url.com)
-
----
-
-<!-- PROJECT 6 — TEMPLATE (copy & fill in) -->
-### 🚀 [Project Name](https://your-project-url.com)
-> Short description of your project
-
-![Tech](https://img.shields.io/badge/Tech-333?style=flat-square&logo=react&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://your-project-url.com)
-
----
-
-<!-- PROJECT 7 — TEMPLATE (copy & fill in) -->
-### 🚀 [Project Name](https://your-project-url.com)
-> Short description of your project
-
-![Tech](https://img.shields.io/badge/Tech-333?style=flat-square&logo=react&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://your-project-url.com)
-
----
-
-<!-- PROJECT 8 — TEMPLATE (copy & fill in) -->
-### 🚀 [Project Name](https://your-project-url.com)
-> Short description of your project
-
-![Tech](https://img.shields.io/badge/Tech-333?style=flat-square&logo=react&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://your-project-url.com)
-
----
+<sub>AI-powered platform</sub>
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<br/>
+<a href="https://lexara.cloud"><img src="https://img.shields.io/badge/Visit_Site_→-70A5FD?style=flat-square" /></a>
 
 <br/>
 
-[![View All Projects](https://img.shields.io/badge/View_All_Projects-70A5FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikolajPietron?tab=repositories)
+<img width="500" src="https://user-images.githubusercontent.com/0/0-0.png" height="1" />
+
+<br/>
+
+<a href="https://gesture-game-omega.vercel.app/">
+<img src="https://img.shields.io/badge/🎮_GESTURE_GAME-0D1117?style=for-the-badge&logoColor=white" alt="Gesture Game" height="35"/>
+</a>
+<br/>
+<sub>Interactive gesture-based browser game</sub>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<br/>
+<a href="https://gesture-game-omega.vercel.app/"><img src="https://img.shields.io/badge/Visit_Site_→-70A5FD?style=flat-square" /></a>
+
+<br/>
+
+<img width="500" src="https://user-images.githubusercontent.com/0/0-0.png" height="1" />
+
+<br/>
+
+<a href="https://rapy.gg">
+<img src="https://img.shields.io/badge/🎵_RAPY-0D1117?style=for-the-badge&logoColor=white" alt="Rapy" height="35"/>
+</a>
+<br/>
+<sub>Music / gaming platform</sub>
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<br/>
+<a href="https://rapy.gg"><img src="https://img.shields.io/badge/Visit_Site_→-70A5FD?style=flat-square" /></a>
+
+<br/>
+
+<img width="500" src="https://user-images.githubusercontent.com/0/0-0.png" height="1" />
+
+<br/>
+
+<a href="https://safeko.vercel.app/">
+<img src="https://img.shields.io/badge/🔒_SAFEKO-0D1117?style=for-the-badge&logoColor=white" alt="Safeko" height="35"/>
+</a>
+<br/>
+<sub>Security / safety app</sub>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<br/>
+<a href="https://safeko.vercel.app/"><img src="https://img.shields.io/badge/Visit_Site_→-70A5FD?style=flat-square" /></a>
+
+<br/>
+
+<img width="500" src="https://user-images.githubusercontent.com/0/0-0.png" height="1" />
+
+<!--
+  ╔═══════════════════════════════════════════════════════════╗
+  ║  TO ADD A NEW PROJECT, copy the block below and fill in: ║
+  ╚═══════════════════════════════════════════════════════════╝
+
+<br/>
+
+<a href="https://YOUR-SITE-URL.com">
+<img src="https://img.shields.io/badge/🚀_PROJECT_NAME-0D1117?style=for-the-badge&logoColor=white" alt="Project Name" height="35"/>
+</a>
+<br/>
+<sub>Short description here</sub>
+<br/>
+<img src="https://img.shields.io/badge/Tech-333?style=flat-square&logo=react&logoColor=white" />
+<br/>
+<a href="https://YOUR-SITE-URL.com"><img src="https://img.shields.io/badge/Visit_Site_→-70A5FD?style=flat-square" /></a>
+
+<br/>
+
+<img width="500" src="https://user-images.githubusercontent.com/0/0-0.png" height="1" />
+
+-->
 
 </div>
 
