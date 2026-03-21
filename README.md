@@ -19,15 +19,15 @@ name: Mikołaj Pietroń
 role: Full Stack Developer
 location: Poland 🇵🇱
 currently_working_on: Building cool web & mobile apps
-learning: Always exploring new technologies
-fun_fact: I built a Pong game with React 🏓
+learning: Python and Ai integration
+
 ```
 
 - 🔭 I'm currently working on **full-stack web & mobile applications**
 - 🌱 I'm always learning and exploring **new frameworks and tools**
-- 💬 Ask me about **React, Next.js, React Native, Python**
+- 💬 Ask me about **React, Next.js, React Native.
 - 📫 How to reach me: **pietron.mikolaj@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into pixel-perfect, high-performance apps**
+
 
 ---
 
@@ -72,22 +72,7 @@ fun_fact: I built a Pong game with React 🏓
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MikolajPietron&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MikolajPietron&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikolajPietron&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
 
 
 
@@ -107,7 +92,7 @@ fun_fact: I built a Pong game with React 🏓
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
 
 <br/>
 
