@@ -78,15 +78,7 @@ learning: Python and Ai integration
 
 
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MikolajPietron&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/MikolajPietron)
-
-</div>
 
 ---
 
