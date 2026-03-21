@@ -41,57 +41,97 @@ learning: Python and AI integration
 
 <br/>
 
-</div>
+<!-- PROJECT 1 — Lexara -->
+### 🌐 [Lexara](https://lexara.cloud)
+> AI-powered platform <!-- Replace with your own description -->
 
-<div align="center">
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<!-- PROJECT 1 -->
-<a href="https://lexara.cloud">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolajPietron&repo=my-pong-game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=FF6B6B&text_color=FFFFFF" alt="Lexara" />
-</a>
-<!-- PROJECT 2 — Replace repo name below -->
-<a href="https://gesture-game-omega.vercel.app/">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolajPietron&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=FF6B6B&text_color=FFFFFF" alt="GestureGame" />
-</a>
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://lexara.cloud)
 
-</div>
+---
+
+<!-- PROJECT 2 — Gesture Game -->
+### 🎮 [Gesture Game](https://gesture-game-omega.vercel.app/)
+> Interactive gesture-based game <!-- Replace with your own description -->
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://gesture-game-omega.vercel.app/)
+
+---
+
+<!-- PROJECT 3 — Rapy -->
+### 🎵 [Rapy](https://rapy.gg)
+> Music / gaming platform <!-- Replace with your own description -->
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://rapy.gg)
+
+---
+
+<!-- PROJECT 4 — Safeko -->
+### 🔒 [Safeko](https://safeko.vercel.app/)
+> Security / safety app <!-- Replace with your own description -->
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://safeko.vercel.app/)
+
+---
+
+<!-- PROJECT 5 — TEMPLATE (copy & fill in) -->
+### 🚀 [Project Name](https://your-project-url.com)
+> Short description of your project
+
+![Tech](https://img.shields.io/badge/Tech-333?style=flat-square&logo=react&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://your-project-url.com)
+
+---
+
+<!-- PROJECT 6 — TEMPLATE (copy & fill in) -->
+### 🚀 [Project Name](https://your-project-url.com)
+> Short description of your project
+
+![Tech](https://img.shields.io/badge/Tech-333?style=flat-square&logo=react&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://your-project-url.com)
+
+---
+
+<!-- PROJECT 7 — TEMPLATE (copy & fill in) -->
+### 🚀 [Project Name](https://your-project-url.com)
+> Short description of your project
+
+![Tech](https://img.shields.io/badge/Tech-333?style=flat-square&logo=react&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://your-project-url.com)
+
+---
+
+<!-- PROJECT 8 — TEMPLATE (copy & fill in) -->
+### 🚀 [Project Name](https://your-project-url.com)
+> Short description of your project
+
+![Tech](https://img.shields.io/badge/Tech-333?style=flat-square&logo=react&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-70A5FD?style=for-the-badge)](https://your-project-url.com)
+
+---
 
 <br/>
 
-<div align="center">
-
-<!-- PROJECT 3 — Replace repo name below -->
-<a href="https://rapy.gg">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolajPietron&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=FF6B6B&text_color=FFFFFF" alt="Project 3" />
-</a>
-<!-- PROJECT 4 — Replace repo name below -->
-<a href="https://safeko.vercel.app/">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MikolajPietron&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=FF6B6B&text_color=FFFFFF" alt="Project 4" />
-</a>
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-70A5FD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikolajPietron?tab=repositories)
 
 </div>
 
-<div align="center">
-
-<br/>s
-
-
-</div>
-
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  HOW TO ADD / EDIT PROJECTS:                                ║
-  ║                                                              ║
-  ║  Each project card uses github-readme-stats "pin" API.       ║
-  ║  Just replace "your-repo-name" with the actual repo name.   ║
-  ║                                                              ║
-  ║  For the <a href="..."> link, use either:                    ║
-  ║  - A live demo URL (like Vercel/Netlify link)                ║
-  ║  - Or the GitHub repo URL                                    ║
-  ║                                                              ║
-  ║  To add more: copy a project block and change the repo name. ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
 
 ---
 
