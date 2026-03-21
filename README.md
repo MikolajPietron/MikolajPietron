@@ -39,32 +39,72 @@ learning: Python and AI integration
 
 <br/>
 
-[![Lexara](https://img.shields.io/badge/_LEXARA-70A5FD?style=for-the-badge)](https://lexara.cloud)
+<table>
+<tr>
+<td align="center" width="50%">
 
-[![Gesture Game](https://img.shields.io/badge/_GESTURE_GAME-70A5FD?style=for-the-badge)](https://gesture-game-omega.vercel.app/)
+### 🌐 Lexara
+<a href="https://lexara.cloud"><img src="https://img.shields.io/badge/lexara.cloud-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-[![Rapy.gg](https://img.shields.io/badge/_RAPY-70A5FD?style=for-the-badge)](https://rapy.gg)
+</td>
+<td align="center" width="50%">
 
-[![Safeko](https://img.shields.io/badge/_SAFEKO-70A5FD?style=for-the-badge)](https://safeko.vercel.app/)
+### 🎮 Gesture Game
+<a href="https://gesture-game-omega.vercel.app/"><img src="https://img.shields.io/badge/gesture--game-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-[![Gesture Controlled Browser Extension](https://img.shields.io/badge/_GestureExtension-70A5FD?style=for-the-badge)](https://github.com/MikolajPietron/GestureExtension)
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-[![Gesture Controlled PC App](https://img.shields.io/badge/_GESTURE_CONTROLLED_PC_APP-70A5FD?style=for-the-badge)](https://drive.google.com/file/d/1jBy3F4umsJkL9GEO2BOkL-aDD0WH4n8M/view?usp=sharing)
+### 🎵 Rapy.gg
+<a href="https://rapy.gg"><img src="https://img.shields.io/badge/rapy.gg-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-[![AkanzaPong](https://img.shields.io/badge/_AKANZAPONG-70A5FD?style=for-the-badge)](https://akanzapong.netlify.app/)
+</td>
+<td align="center" width="50%">
 
-[![BydgoszczMobile](https://img.shields.io/badge/_Bydgoszcz_Mobile-70A5FD?style=for-the-badge)](https://github.com/MikolajPietron/bydgoszczMobile)
+### 🔒 Safeko
+<a href="https://safeko.vercel.app/"><img src="https://img.shields.io/badge/safeko-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-[![Musify Guess The Song](https://img.shields.io/badge/_MUSIFY_GUESS_THE_SONG-70A5FD?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.aplikacja.musify&hl=en)
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
+### 🖐️ Gesture Extension
+<a href="https://github.com/MikolajPietron/GestureExtension"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+</td>
+<td align="center" width="50%">
 
+### 🖥️ Gesture PC App
+<a href="https://drive.google.com/file/d/1jBy3F4umsJkL9GEO2BOkL-aDD0WH4n8M/view?usp=sharing"><img src="https://img.shields.io/badge/Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<!--
-  TO ADD A NEW PROJECT:
-  [![Name](https://img.shields.io/badge/🚀_NAME-70A5FD?style=for-the-badge)](https://your-url.com)
--->
+### 🏓 AkanzaPong
+<a href="https://akanzapong.netlify.app/"><img src="https://img.shields.io/badge/akanzapong-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+
+</td>
+<td align="center" width="50%">
+
+### 📱 Bydgoszcz Mobile
+<a href="https://github.com/MikolajPietron/bydgoszczMobile"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### 🎶 Musify — Guess The Song
+<a href="https://play.google.com/store/apps/details?id=com.aplikacja.musify&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
