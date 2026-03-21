@@ -43,13 +43,13 @@ learning: Python and AI integration
 <tr>
 <td align="center" width="50%">
 
-### 🌐 Lexara
+
 <a href="https://lexara.cloud"><img src="https://img.shields.io/badge/lexara.cloud-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
 <td align="center" width="50%">
 
-### 🎮 Gesture Game
+
 <a href="https://gesture-game-omega.vercel.app/"><img src="https://img.shields.io/badge/gesture--game-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
@@ -57,13 +57,13 @@ learning: Python and AI integration
 <tr>
 <td align="center" width="50%">
 
-### 🎵 Rapy.gg
+
 <a href="https://rapy.gg"><img src="https://img.shields.io/badge/rapy.gg-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
 <td align="center" width="50%">
 
-### 🔒 Safeko
+
 <a href="https://safeko.vercel.app/"><img src="https://img.shields.io/badge/safeko-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </td>
@@ -71,13 +71,12 @@ learning: Python and AI integration
 <tr>
 <td align="center" width="50%">
 
-### 🖐️ Gesture Extension
 <a href="https://github.com/MikolajPietron/GestureExtension"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td align="center" width="50%">
 
-### 🖥️ Gesture PC App
+
 <a href="https://drive.google.com/file/d/1jBy3F4umsJkL9GEO2BOkL-aDD0WH4n8M/view?usp=sharing"><img src="https://img.shields.io/badge/Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 
 </td>
@@ -85,13 +84,13 @@ learning: Python and AI integration
 <tr>
 <td align="center" width="50%">
 
-### 🏓 AkanzaPong
+
 <a href="https://akanzapong.netlify.app/"><img src="https://img.shields.io/badge/akanzapong-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 </td>
 <td align="center" width="50%">
 
-### 📱 Bydgoszcz Mobile
+
 <a href="https://github.com/MikolajPietron/bydgoszczMobile"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
@@ -99,7 +98,7 @@ learning: Python and AI integration
 <tr>
 <td align="center" colspan="2">
 
-### 🎶 Musify — Guess The Song
+
 <a href="https://play.google.com/store/apps/details?id=com.aplikacja.musify&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
 
 </td>
