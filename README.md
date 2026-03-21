@@ -47,13 +47,13 @@ learning: Python and AI integration
 
 [![Safeko](https://img.shields.io/badge/_SAFEKO-70A5FD?style=for-the-badge)](https://safeko.vercel.app/)
 
-[![Gesture Controlled Browser Extension](https://img.shields.io/badge/_GESTURE_CONTROLLED_BROWSER_EXTENSION-70A5FD?style=for-the-badge)](https://github.com/MikolajPietron/gesture-controlled-browser-extension)
+[![Gesture Controlled Browser Extension](https://img.shields.io/badge/_GestureExstension-70A5FD?style=for-the-badge)](https://github.com/MikolajPietron/gesture-controlled-browser-extension)
 
 [![Gesture Controlled PC App](https://img.shields.io/badge/_GESTURE_CONTROLLED_PC_APP-70A5FD?style=for-the-badge)](https://drive.google.com/file/d/1jBy3F4umsJkL9GEO2BOkL-aDD0WH4n8M/view?usp=sharing)
 
 [![AkanzaPong](https://img.shields.io/badge/_AKANZAPONG-70A5FD?style=for-the-badge)](https://akanzapong.netlify.app/)
 
-[![BydgoszczMobile](https://img.shields.io/badge/_BYDGOSZCZ_MOBILE-70A5FD?style=for-the-badge)](https://github.com/MikolajPietron/BydgoszczMobile)
+[![BydgoszczMobile](https://img.shields.io/badge/_bydgoszczMobile-70A5FD?style=for-the-badge)](https://github.com/MikolajPietron/BydgoszczMobile)
 
 [![Musify Guess The Song](https://img.shields.io/badge/_MUSIFY_GUESS_THE_SONG-70A5FD?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.aplikacja.musify&hl=en)
 
