@@ -3,11 +3,6 @@
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+profile+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<!-- Profile Views Counter -->
-<br/>
-
-
-
 </div>
 
 ---
@@ -138,10 +133,7 @@ learning: Python and AI integration
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikolajPietron)
 
 </div>
-<div>
-  
-![Profile Views](https://komarev.com/ghpvc/?username=MikolajPietron&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
-</div>
+
 
 ---
 
@@ -151,4 +143,11 @@ learning: Python and AI integration
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
+</div>
+
+<br/>
+
+<div>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=MikolajPietron&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
