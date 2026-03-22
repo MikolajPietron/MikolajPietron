@@ -16,16 +16,14 @@
 
 ```yaml
 name: Mikołaj Pietroń
+email: pietron.mikolaj@gmail.com
 role: Full Stack Developer
 location: Poland 🇵🇱
 currently_working_on: Building cool web & mobile apps
 learning: Python and AI integration
 ```
 
-- 🔭 I'm currently working on **full-stack web & mobile applications**
-- 🌱 I'm always learning and exploring **new frameworks and tools**
-- 💬 Ask me about **React, Next.js, React Native**
-- 📫 How to reach me: **pietron.mikolaj@gmail.com**
+
 
 ---
 
