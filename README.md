@@ -85,7 +85,7 @@ learning: Python and AI integration
     <td width="50%" valign="top">
       <h3>📱 Bydgoszcz Mobile</h3>
       <p>Aplikacja mobilna w React Native dla mista Bydgoszcz stworzona na Hackathonie Hacknation 2025. AR, intergracja Ai. </p>
-      <a href="https://github.com/MikolajPietron/bydgoszczMobile"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/rvabka/Hacknation"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
