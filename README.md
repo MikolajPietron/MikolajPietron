@@ -34,7 +34,7 @@ learning: Python and AI integration
 <!-- ============================================================ -->
 
 <div align="center">
-  <h2>⭐ Featured Projects</h2>
+  <h2>⭐ My projects</h2>
 </div>
 
 <br/>
