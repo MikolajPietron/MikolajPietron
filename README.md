@@ -48,7 +48,7 @@ learning: Python and AI integration
     </td>
     <td width="50%" valign="top">
       <h3>Gesture Game</h3>
-      <p>Strona internetowa z sterowana poprzez gesty dzięki modelowi MediaPipe. Przechodź następne poziomy poprzez interakcje gestami dłoni. (Wymagana kamerka)</p>
+      <p>Strona internetowa sterowana poprzez gesty dzięki modelowi MediaPipe. Przechodź następne poziomy poprzez interakcje gestami dłoni. (Wymagana kamerka)</p>
       <a href="https://gesture-game-omega.vercel.app/"><img src="https://img.shields.io/badge/Play_Now-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     </td>
   </tr>
