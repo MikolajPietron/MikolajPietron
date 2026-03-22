@@ -42,56 +42,56 @@ learning: Python and AI integration
 <table width="100%" bordercolor="#70A5FD">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Lexara</h3>
-      <p>A brief description of what this project does, the problem it solves, and the core technologies used to build it.</p>
+      <h3>lexara.cloud</h3>
+      <p>Aplikacja webowa z systemem RAG która wykszukuje informacje z bazy ponad 150k orzeczeń sądowych.</p>
       <a href="https://lexara.cloud"><img src="https://img.shields.io/badge/Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Gesture Game</h3>
-      <p>An interactive web-based game controlled entirely by hand gestures. Built using [insert tech stack here].</p>
+      <h3>Gesture Game</h3>
+      <p>Strona internetowa z sterowana poprzez gesty dzięki modelowi MediaPipe. Przechodź następne poziomy poprzez interakcje gestami dłoni. (Wymagana kamerka)</p>
       <a href="https://gesture-game-omega.vercel.app/"><img src="https://img.shields.io/badge/Play_Now-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Rapy.gg</h3>
-      <p>A platform designed for [target audience]. Features include [key feature 1] and [key feature 2].</p>
+      <h3>Rapy.gg</h3>
+      <p>Projekt Freelancerski dla rapy sp. z o.o. Sklep internetowy dla serwera Minecraft rapy.gg</p>
       <a href="https://rapy.gg"><img src="https://img.shields.io/badge/Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Safeko</h3>
-      <p>A brief description of this security or utility application, highlighting its main functionality and purpose.</p>
+      <h3>Safeko</h3>
+      <p>Marketplace dla nieruchomości oraz samochodów. </p>
       <a href="https://safeko.vercel.app/"><img src="https://img.shields.io/badge/Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 Gesture Extension</h3>
-      <p>A browser extension that allows users to navigate and control their web experience using custom hand gestures.</p>
+      <h3>Gesture Extension</h3>
+      <p>Rozszerzenie GestureGame. Wtyczka przeglądarkowa pozwalająca to kontrolowanie stron internetowych poprzez gesty dłońmi. Instalacja wytłumaczona w readme</p>
       <a href="https://github.com/MikolajPietron/GestureExtension"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>💻 Gesture PC App</h3>
-      <p>A desktop application companion for gesture controls. Built to run seamlessly on [Windows/Mac/Linux].</p>
+      <p>Kolejne rozszerzenie, tym razem dla wtyczki. Jest to aplikacja pozwalająca na kontrole całego komputera poprzez gesty dłońmi. W repo jest link to google drive gdzie znajduję się plik .exe. Wystarczy go pobrać i odpalić. Jak na razie działa tylko na Windows.</p>
       <a href="https://drive.google.com/file/d/1jBy3F4umsJkL9GEO2BOkL-aDD0WH4n8M/view?usp=sharing"><img src="https://img.shields.io/badge/Download_App-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏓 AkanzaPong</h3>
-      <p>A modern web-based recreation of the classic Pong game. Fast, responsive, and deployed via Netlify.</p>
+      <h3>AkanzaPong</h3>
+      <p>Aplikacja webowa, którą stworzyłem podczas pracy w Akazna Technologies. Jest to gra typu pong dla klubu ping pongowego ATS Lublin.</p>
       <a href="https://akanzapong.netlify.app/"><img src="https://img.shields.io/badge/Play_Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Bydgoszcz Mobile</h3>
-      <p>A mobile application built with React Native providing localized information and services for the city of Bydgoszcz.</p>
+      <p>Aplikacja mobilna w React Native dla mista Bydgoszcz stworzona na Hackathonie Hacknation 2025. AR, intergracja Ai. </p>
       <a href="https://github.com/MikolajPietron/bydgoszczMobile"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top" align="center">
-      <h3>🎵 Musify — Guess The Song</h3>
-      <p>A fun and competitive mobile trivia game where users listen to snippets and guess the song. Available now on Android.</p>
+      <h3>Musify — Guess The Song</h3>
+      <p>Jeden z pierwszych projektów. Gra typu trivia na telefony. Dostępna do pobrania na google play.</p>
       <a href="https://play.google.com/store/apps/details?id=com.aplikacja.musify&hl=en"><img src="https://img.shields.io/badge/Get_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
     </td>
   </tr>
