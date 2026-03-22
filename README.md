@@ -19,7 +19,7 @@ name: Mikołaj Pietroń
 email: pietron.mikolaj@gmail.com
 role: Full Stack Developer
 location: Poland 🇵🇱
-currently_working_on: Building cool web & mobile apps
+currently_working_on: Building Web and Mobile applications
 learning: Python and AI integration
 ```
 
