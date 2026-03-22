@@ -138,7 +138,10 @@ learning: Python and AI integration
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikolajPietron)
 
 </div>
+<div>
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=MikolajPietron&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
 
 ---
 
